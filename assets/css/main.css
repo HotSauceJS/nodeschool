@@ -369,3 +369,18 @@ h1, h2 {
 #team h1 {
 	color: #fff;
 }
+
+#team img {
+	border-radius: 10px;
+}
+
+#team p {
+	font-size: 1.3em;
+	line-height: 140%;
+}
+
+.team-intro {
+	margin-bottom: 50px;
+	text-align: center;
+	font-size: 1.4em;
+}

@@ -384,3 +384,9 @@ h1, h2 {
 	text-align: center;
 	font-size: 1.4em;
 }
+
+#about h3.stat {
+	color: orange;
+	font-weight: bold;
+	font-size: 3em;
+}

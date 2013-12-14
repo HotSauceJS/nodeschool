@@ -82,6 +82,26 @@ h1 {
 	text-align: center;
 }
 
+#class-outline {
+	text-align: center;	
+	font-size: 1.6em;
+	line-height: 140%;
+}
+
+#class-outline p { 
+	margin-bottom: 20px;
+}
+
+#class-outline li {
+	list-style: none;
+	margin-top: 15px;
+	font-size: .8em;
+}
+
+#class-outline ul {
+	margin-bottom: 25px;
+}
+
 
 #team {
 	background:#000;

@@ -410,3 +410,19 @@ h1, h2 {
 	font-weight: bold;
 	font-size: 3em;
 }
+
+.covered-topics {
+	text-align: center;
+}
+
+.covered-topics li {
+	text-align: left;
+	font-size: 1.2em;
+}
+
+p.cite {
+	font-size: .7em;
+	margin: 0 0 0 0;
+	font-style: italic;
+	font-weight: bold;
+}
